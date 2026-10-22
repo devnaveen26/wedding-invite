@@ -1,9 +1,9 @@
 // Edit this file to personalize the invitation.
 export const invitation = {
-  groom: 'Shubham',
-  bride: 'Vasundhara',
-  groomFull: 'Shubham Gandhi',
-  brideFull: 'Vasundhara Daga',
+  groom: 'Sachin',
+  bride: 'Sonam',
+  groomFull: 'Sachin Gandhi',
+  brideFull: 'Sonam Daga',
   groomParents: 'Shri Deepak Arya & Smt Urmila Arya',
   brideParents: 'Shri Ajay Kumar Daga & Smt Mridula Daga',
   intro: 'We would like to invite you to celebrate with us the most special day of our lives. It would be an honor to have you present at this important moment.',
